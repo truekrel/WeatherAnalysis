@@ -1,5 +1,5 @@
 # WeatherAnalysis
-interractive web application to analyse weather and climate data from capitals around the world
+Interractive web application to analyse weather and climate data from capitals around the world
 
 [Русская версия](README_RU.md)
 
