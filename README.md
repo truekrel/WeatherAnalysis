@@ -1,9 +1,13 @@
 # WeatherAnalysis
 interractive web application to analyse weather and climate data from capitals around the world
+
+[Русская версия](README_RU.md)
+
 ## Features
 - Interractive data visualization for various weather parameters
 - Includes data for most capital cities of the world for several years
 - Responsive and easy-to-use UI
+
 ## Quick start
 
 ### Local installation
