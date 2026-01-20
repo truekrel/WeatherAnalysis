@@ -24,7 +24,7 @@ jobs:
       
       - name: Run tests
         run: |
-          python generate_data.py
+          python preprocessData.py
           echo "Tests passed successfully"
 
   build-and-push:
