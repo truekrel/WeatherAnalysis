@@ -1,6 +1,8 @@
 # WeatherAnalysis
 Интеррактивное web-приложение для анализа данных о погоде и климате в столицах различных стран мира 
 
+[Демонстрация](https://weatheranalysis-htboeedw8ql7la7yqd4uyw.streamlit.app/)
+
 [English version](README.md)
 ## Функции
 - Интеррактивная визуализация данных о различных параметрах погоды
